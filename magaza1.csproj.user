@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMagazaGiderleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmmagazagiderlistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMarka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMüşteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMüşteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSipariş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSiparişleriListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTedarikçiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTedarikçiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmÜrünEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmÜrünler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSatışListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
